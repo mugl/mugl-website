@@ -11,7 +11,7 @@
 	<p class="homepagetext">
 		arkLogic User Group London is a newly formed organization for people
 		that are users or fans of MarkLogic and those who are interested in
-		learning more about MarkLogic, XML, XQuery or any combination thereof.
+		learning more about MarkLogic, XML, XQuery and related technologies.
 	</p>
 	<p class="homepagetext">
 		While MarkLogic is where our common interest begins, the members

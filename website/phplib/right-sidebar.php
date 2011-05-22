@@ -19,7 +19,7 @@
 			<p>
 				MUGL uses MeetUp to manages our meetings
 				and events.  Visit the
-				<a href="http://meetup.com/">MUGL MeetUp</a>
+				<a href="http://www.meetup.com/muglondon/">MUGL MeetUp</a>
 				page to signup.
 			</p>
 		</div>
@@ -28,7 +28,7 @@
 
 <div class="sidebar">
 	<div class="sidebarinner">
-		<div class="sidebartitle">Join the MUGL Email List</div>
+		<div class="sidebartitle">Join the MUGL Mailing List</div>
 		<div class="sidebarbody">
 			<p>
 				Have an opinion or need some help?
@@ -44,6 +44,25 @@
 		<div class="sidebarbody">
 			<p>
 				Sponsor info will go here.
+			</p>
+		</div>
+	</div>
+</div>
+
+
+<div class="sidebar">
+	<div class="sidebarinner">
+		<div class="sidebartitle">Ron's XQuery Book</div>
+		<div class="sidebarbody">
+			<p>
+				<a href="http://pragprog.com/titles/xquery/getting-started-with-xquery" target="foo"><img class="homepageimg" src="images/xquery_xlargecover.jpg" alt="Getting Started With XQuery"/></a>
+				New to XQuery?  
+				Ron Hitchens, founder of MUGL, wrote an
+				ebook titled
+				<a href="http://pragprog.com/titles/xquery/getting-started-with-xquery" target="foo"><i>Getting Started With XQuery</i></a>.
+			</p>
+			<p>
+				It may help you, uh, get started.
 			</p>
 		</div>
 	</div>
