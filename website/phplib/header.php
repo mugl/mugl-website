@@ -16,11 +16,11 @@
 <div class="linksbar">
 	<table width="100%">
 		<tr >
-			<td width="25%"><a href="about-mugl.php">About MUGL</a></td>
-			<td width="25%"><a href="what-is-ml.php">MarkLogic?</a></td>
-			<td width="25%"><a href="upcoming.php">Upcoming</a></td>
-			<td width="25%"><a href="mailing-list.php">Mailing List</a></td>
-			<td width="25%"><a href="contact.php">Contact</a></td>
+			<td width="20%"><a href="about-mugl.php">About MUGL</a></td>
+			<td width="20%"><a href="what-is-ml.php">MarkLogic?</a></td>
+			<td width="20%"><a href="events.php">Events</a></td>
+			<td width="20%"><a href="mailing-list.php">Mailing List</a></td>
+			<td width="20%"><a href="contact.php">Contact</a></td>
 		</tr>
 	</table>
 </div>

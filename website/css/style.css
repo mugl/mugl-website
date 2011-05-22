@@ -1,4 +1,4 @@
-a {
+.header,.linksbar a {
   color: #fff;
   text-decoration: none;
 }
@@ -7,6 +7,14 @@ a:hover{
   text-decoration: underline;
 }
 
+a {
+  color: #00a;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
 form {
   width: 80%;
   border: 1px dotted #ccc;
@@ -44,7 +52,7 @@ form h2{
 }
 
 .header {
-	border: solid #335555 1px;
+	border: solid black 1px;
 	margin-bottom: 10px;
 	background-color: #f3181E;
 }
@@ -66,7 +74,7 @@ form h2{
 }
 
 .linksbar {
-	border: solid #335555 1px;
+	border: solid black 1px;
 	background-color: #f3181E;
 	margin-top: 0;
 	margin-bottom: 25pt;
@@ -74,7 +82,7 @@ form h2{
 
 .linksbar td {
 	color: white;
-	padding: 20px;
+	padding: 10px;
 	font-size: 1.4em;
 	font-weight: bold;
 	text-align: center;
@@ -102,6 +110,7 @@ form h2{
 	padding: 3px;
 	background-color: #f3181E;
 	color: white;
+	font-weight: bold;
 }
 
 .sidebarbody {

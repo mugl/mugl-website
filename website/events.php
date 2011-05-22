@@ -5,7 +5,8 @@
 <table border="0">
 <tr>
 <td width="80%" valign="top">
-	<? include "content/what-is-ml.php"; ?>
+	<? include "content/events-upcoming.php"; ?>
+	<? include "content/events-past.php"; ?>
 </td>
 <td valign="top">
 	<? include "phplib/right-sidebar.php"; ?>

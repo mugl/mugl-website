@@ -3,8 +3,10 @@
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
 			<p>
-				The next regularly scheduled meeting of the
-				MUGL is June 16, 2011 at 6:30pm.  Location is TBD.
+				The first meeting of the
+				MUGL has not yet been set.  It is expected
+				to be in mid-June, 2011.
+				Location is TBD.
 			</p>
 		</div>
 	</div>
@@ -12,10 +14,25 @@
 
 <div class="sidebar">
 	<div class="sidebarinner">
-		<div class="sidebartitle">MeetUp</div>
+		<div class="sidebartitle">MUGL MeetUp</div>
 		<div class="sidebarbody">
 			<p>
-				Link to MeetUp goes here.
+				MUGL uses MeetUp to manages our meetings
+				and events.  Visit the
+				<a href="http://meetup.com/">MUGL MeetUp</a>
+				page to signup.
+			</p>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar">
+	<div class="sidebarinner">
+		<div class="sidebartitle">Join the MUGL Email List</div>
+		<div class="sidebarbody">
+			<p>
+				Have an opinion or need some help?
+				Join the <a href="mailing-list.php">MUGL Mailing List</a>.
 			</p>
 		</div>
 	</div>
@@ -26,7 +43,7 @@
 		<div class="sidebartitle">A Word From Our Sponsors</div>
 		<div class="sidebarbody">
 			<p>
-				Sponsor info goes here.
+				Sponsor info will go here.
 			</p>
 		</div>
 	</div>

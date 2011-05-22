@@ -1,7 +1,7 @@
 <div class="homepage">
 	<h1>What MUGL Is All About</h1>
 	<div style="float: right;">
-		<img class="homepageimg" src="images/union-jack-teapot.jpg" width="150" height="130" alt="Teapot"/>
+		<img class="homepageimg" src="images/union-jack-m.png" width="150" height="130" alt="Teapot"/>
 	</div>
 
 	<p class="homepagetext">
@@ -22,9 +22,10 @@
 	</p>
 	<p class="homepagetext">
 		MUGL's founder, Ron Hitchens, is not only a MarkLogic user but also
-		former employee and Lead Engineer on the Core Server Team at MarkLogic
+		a former MarkLogic employee.
+		Ron was a Lead Engineer on the Core Server Team at MarkLogic
 		for five years.  Ron relocated to the UK in 2009 and is now an ex-pat
 		American in London making a living building web services and
-		publishing systems that exploit the power of MarkLogic.		
+		publishing systems that harness the power of MarkLogic.		
 	</p>
 </div>
