@@ -118,6 +118,12 @@ form h2{
 	color: black;
 }
 
+.sidebartext {
+	vertical-align: top;
+	padding: 2px;
+    margin-bottom: 3px;
+}
+
 .homepagetext {
 	vertical-align: top;
 	padding: 5px;
@@ -334,14 +340,15 @@ h2 {
 	color: black;
 	font-size: 1.3em;
 	margin-top: 1.5em;
-	margin-bottom: 0.1em;
+	margin-bottom: 0.3em;
 	border-bottom: 1px dotted #f3181E;
 }
 h3 {
 	color: black;
-	font-size: 1.0em;
-	margin-top: 0.5em;
-	margin-bottom: 0.1em;
+	font-size: 1.1em;
+	margin-top: 0.2em;
+	margin-bottom: 0.3em;
+    border-bottom: 1px dotted #f3181E;
 }
 
 .loading {

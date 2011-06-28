@@ -9,9 +9,9 @@
 		to post to the list.
 	</p>
 	<p class="homepagetext">
-		You can access to homepage for the
-		<a href="http://groups.google.com/group/mugl?hl=en" target="foo">MUGL Google Group</a>
-		to browse the list archive, modify your group preferences, etc.
+		You can access the
+		<a href="http://groups.google.com/group/mugl?hl=en" target="foo">MUGL Google Groups</a>
+		homepage to browse the list archive, modify your group preferences, etc.
 		You can also subscribe to the group via
 		<a href="http://groups.google.com/group/mugl/feeds?hl=en" target="foo">Atom or RSS</a>.
 	</p>

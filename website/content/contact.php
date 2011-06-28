@@ -1,18 +1,20 @@
 <div class="homepage">
 	<h1>Contact MarkLogic User Group London</h1>
 	<p class="homepagetext">
-		The best way to contact the MUGL is to signup and
-		send a message to the
-		<a href="mailing-list.php">mailing list</a>.
-		There will eventually be a proper contact email
-		address but the email domain is not fully sorted yet.
-		I'm working on it.
+        There are several ways for you to get in touch with the MUGL or our members.
 	</p>
-	<h1>Join The Gang</h1>
-	<p class="homepagetext">
-		Join the
-		<a href="mailing-list.php">MUGL Mailing List</a>
-		and/or attend the next
-		<a href="events.php">MUGL Meeting<a/>.
-	</p>
+    <p class="homepagetext">
+        Attend our next meeting.  Visit the
+        <a href=events.php>Events page</a> to find when
+        and where the next meeting will be held.
+        Or jump straight to our
+        <a href="http://www.meetup.com/muglondon/events/calendar/" target="foo">MeetUp Calendar</a>.
+    </p>
+    <p class="homepagetext">
+        Send a <a href="http://www.meetup.com/muglondon/suggestion/" target="foo">direct message</a>
+        to the organizer of the MUGL via MeetUp.
+    </p>
+    <p class="homepagetext">
+        Join the discussion by signing up for our mailing list.
+    </p>
 </div>

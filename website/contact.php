@@ -6,6 +6,8 @@
 <tr>
 <td width="80%" valign="top">
 	<? include "content/contact.php"; ?>
+    <? include "content/mailing-list.php"; ?>
+    <? include "content/mailing-list-post.php"; ?>
 </td>
 <td valign="top">
 	<? include "phplib/right-sidebar.php"; ?>

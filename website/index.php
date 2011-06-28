@@ -5,6 +5,7 @@
 <table border="0">
 <tr>
 <td width="80%" valign="top">
+	<? include "content/news.php"; ?>
 	<? include "content/intro-mugl.php"; ?>
 	<? include "content/about-mugl.php"; ?>
 </td>

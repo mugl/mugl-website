@@ -1,14 +1,14 @@
 <div class="homepage">
 
 	<h1>About MarkLogic</h1>
-	
+
 	<div style="float: left;">
 		<img class="homepageimg" src="images/big-red-m.png" width="100" height="100" alt="Big M"/>
 	</div>
 	<p class="homepagetext">
-		arkLogic is a commercial software product sold by 
-		MarkLogic Corporation, which is based in the San Francisco
-		Bay Area, California.
+		arkLogic is a commercial software product sold by
+		<a href="http://marklogic.com/" target="foo">MarkLogic Corporation</a>,
+        which is based in the San Francisco Bay Area, California.
 	</p>
 	<p class="homepagetext">
 		MarkLogic's primary product, MarkLogic Server, is best
@@ -31,7 +31,7 @@
 		soon as a document is committed to the store, it is
 		immediately visible to searches.
 	</p>
-	
+
 	<h1>Getting MarkLogic</h1>
 	<p class="homepagetext">
 		To learn more about the MarkLogic product, visit the

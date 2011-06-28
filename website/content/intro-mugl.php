@@ -1,7 +1,7 @@
 <div class="homepage">
 
 	<h1>Introducing The MarkLogic User Group London</h1>
-	
+
 	<div style="float: left;">
 		<img class="homepageimg" src="images/big-red-m.png" width="100" height="100" alt="Big M"/>
 	</div>
@@ -15,12 +15,14 @@
 	</p>
 	<p class="homepagetext">
 		While MarkLogic is where our common interest begins, the members
-		of MUGL share many other interests in the "X" technologies (XML/XSL/XQuery)
+		of MUGL share many interests other than the "X" technologies (XML/XSL/XQuery)
 		as well as web application design, publishing systems, search
 		optimization and other content-centric disciplines.
 	</p>
 	<p class="homepagetext">
 		All of our monthly meetings are free and open to the public.
 		There is no formal membership requirement and all are welcome.
+        To reserve a spot at the next meeting, visit the MeetUp link on
+        the right side of this page.
 	</p>
 </div>
