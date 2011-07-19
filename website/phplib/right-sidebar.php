@@ -2,13 +2,21 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>July 14, 2011, 6:30pm</h3>
-			<p class="sidebartext">
-				The first
+            <h3>August 18, 2011, 6:30pm</h3>
+		<p class="sidebartext">
+		The August
                 <a href="http://www.meetup.com/muglondon/" target="foo">meeting of the MUGL</a>
-                is scheduled for July 14, 2011
-                at <a href="http://skillsmatter.com/go/find-us" target="foo">Skills Matter</a> in London.
-			</p>
+                is scheduled for August 18, 2011.
+                </p>
+                <p class="sidebartext">
+                The featured speaker will be Stephen Buxton, Director of Product Development
+                at MarkLogic.  Stephen will give us a sneak peek at the features
+                coming soon in MarkLogic 5.0.
+		</p>
+		<p class="sidebartext">
+		Stay up to date,
+		<a href="http://www.meetup.com/muglondon/calendar" target="cal">subscribe to the MUGL calendar</a>.
+		</p>
 		</div>
 	</div>
 </div>
