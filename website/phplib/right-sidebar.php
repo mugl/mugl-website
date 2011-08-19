@@ -2,16 +2,16 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>August 18, 2011, 6:30pm</h3>
+            <h3>September 15, 2011, 18:30</h3>
 		<p class="sidebartext">
-		The August
+		The Spetember
                 <a href="http://www.meetup.com/muglondon/" target="foo">meeting of the MUGL</a>
-                is scheduled for August 18, 2011.
+                is scheduled for September 15, 2011.
                 </p>
                 <p class="sidebartext">
-                The featured speaker will be Stephen Buxton, Director of Product Development
-                at MarkLogic.  Stephen will give us a sneak peek at the features
-                coming soon in MarkLogic 5.0.
+                The featured speaker will be Norm Walsh, Lead Engineer
+                at MarkLogic.  Norm is also Spec Lead for XProc and was
+                co-creator of DocBook.
 		</p>
 		<p class="sidebartext">
 		Stay up to date,

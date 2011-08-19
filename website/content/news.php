@@ -1,15 +1,22 @@
 <div class="homepage">
-	<h1>The First MUGL Meeting Has Come And Gone</h1>
+	<h1>Prepare For The Norman Invasion</h1>
 
 	<p class="homepagetext">
-        The inaugural meeting of the MarkLogic User Group London took place
-        on July 14, 2011.  Click the <a href="events.php">Events</a> heading above for more information.
-        </p>
-	<p class="homepagetext">
-	The meetings for August and September have already been scheduled.
-	Check the Meetup calendar link in the sidebar for details.  Or
-	<a href="http://www.meetup.com/muglondon/events/calendar/">subscribe to our calendar</a> to get automatic updates.
+	Mark your calendars: September 15, 2011.  
+	<a href="http://norman.walsh.name/" target="norm">Norm Walsh</a>,
+	MarkLogic Lead Engineer, XML/XQuery/DocBook/XProc maven and well known
+	<a href="http://www.youtube.com/watch?v=a8SNp_cQfrA" target="youtube">tall guy</a> will be
+	our special guest at the September MUGL meeting.
 	</p>
+
+	<p class="homepagetext">
+	To signup for this meeting (don't delay, it's going to be a popular one)
+	visit our MeetUp page by following the link in the sidebar at right.
+	While you're at it, 
+	<a href="http://www.meetup.com/muglondon/events/calendar/" target="meetup">subscribe to our calendar</a>
+	to have future MUGL meetings automatically added to your diary.
+	</p>
+
 
 	<h1>Call For Speakers</h1>
 	
