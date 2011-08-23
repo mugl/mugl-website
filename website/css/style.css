@@ -15,6 +15,7 @@ a {
 a:hover{
   text-decoration: underline;
 }
+
 form {
   width: 80%;
   border: 1px dotted #ccc;
@@ -49,6 +50,11 @@ form h2{
   border: none;
   text-align: center;
   padding: 0;
+}
+
+.floatpicture {
+	float:right;
+	margin-left: 5px;
 }
 
 .header {

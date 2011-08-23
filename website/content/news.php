@@ -1,5 +1,6 @@
 <div class="homepage">
 	<h1>Prepare For The Norman Invasion</h1>
+	<div class="floatpicture"><img src="images/norm.gif"/></div>
 
 	<p class="homepagetext">
 	Mark your calendars: September 15, 2011.  
