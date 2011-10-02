@@ -1,17 +1,17 @@
 <div class="homepage">
-	<h1>Prepare For The Norman Invasion</h1>
-	<div class="floatpicture"><img src="images/norm.gif"/></div>
+	<h1>Hear Comes The Saxon Invasion</h1>
+	<div class="floatpicture"><img src="images/225px-Michael_kay_nov_2008.jpg" width="110" height="128"/></div>
 
 	<p class="homepagetext">
-	Mark your calendars: September 15, 2011.  
-	<a href="http://norman.walsh.name/" target="norm">Norm Walsh</a>,
-	MarkLogic Lead Engineer, XML/XQuery/DocBook/XProc maven and well known
-	<a href="http://www.youtube.com/watch?v=a8SNp_cQfrA" target="youtube">tall guy</a> will be
-	our special guest at the September MUGL meeting.
+	Mark your calendars: Wednesday, October 19, 2011.  
+	<a href="http://saxonica.com/contact/contact.xml" target="kay">Dr. Michael Kay</a>,
+	the father of <a href="http://saxonica.com" target="kay">Saxon</a>
+	and influential member of various and sundry XML-related W3C standards committees will be
+	our special guest at the October MUGL meeting.
 	</p>
 
 	<p class="homepagetext">
-	To signup for this meeting (don't delay, it's going to be a popular one)
+	To signup for this meeting please
 	visit our MeetUp page by following the link in the sidebar at right.
 	While you're at it, 
 	<a href="http://www.meetup.com/muglondon/events/calendar/" target="meetup">subscribe to our calendar</a>

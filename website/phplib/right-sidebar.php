@@ -2,16 +2,15 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>September 15, 2011, 18:30</h3>
+            <h3>October 19, 2011, 18:30</h3>
 		<p class="sidebartext">
-		The Spetember
+		The next
                 <a href="http://www.meetup.com/muglondon/" target="foo">meeting of the MUGL</a>
-                is scheduled for September 15, 2011.
+                is scheduled for Ocober 19, 2011.
                 </p>
                 <p class="sidebartext">
-                The featured speaker will be Norm Walsh, Lead Engineer
-                at MarkLogic.  Norm is also Spec Lead for XProc and was
-                co-creator of DocBook.
+                The featured speaker will be Dr. Michael Kay, creator of
+                the widley used Saxon XSL/XQuery processor.
 		</p>
 		<p class="sidebartext">
 		Stay up to date,

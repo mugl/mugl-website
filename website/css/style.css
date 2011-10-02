@@ -95,11 +95,8 @@ form h2{
 }
 
 .sidebar {
-	margin-left: 0px;
-	margin-right: 0px;
-	margin-top: 0px;
-	margin-bottom: 10px;
-	padding-left: 8px;
+    margin: 0 0 10px;
+    padding-left: 8px;
 	padding-top: 5px;
 	background-color: white;
 	width: 15em;
@@ -107,9 +104,10 @@ form h2{
 
 .sidebarinner {
 	border: solid black 1px;
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 	background-color: white;
+    text-align: left;
 }
 
 .sidebartitle {
@@ -127,7 +125,7 @@ form h2{
 .sidebartext {
 	vertical-align: top;
 	padding: 2px;
-    margin-bottom: 3px;
+	margin-bottom: 3px;
 }
 
 .homepagetext {

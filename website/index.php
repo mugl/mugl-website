@@ -9,7 +9,7 @@
 	<? include "content/intro-mugl.php"; ?>
 	<? include "content/about-mugl.php"; ?>
 </td>
-<td valign="top">
+<td valign="top" align="right">
 	<? include "phplib/right-sidebar.php"; ?>
 </td>
 </tr>
