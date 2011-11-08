@@ -1,13 +1,16 @@
 <div class="homepage">
-	<h1>Hear Comes The Saxon Invasion</h1>
-	<div class="floatpicture"><img src="images/225px-Michael_kay_nov_2008.jpg" width="110" height="128"/></div>
+	<h1>The Prague Autumn</h1>
+	<div class="floatpicture"><img src="images/JimFuller.png" width="110" height="110"/></div>
 
 	<p class="homepagetext">
-	Mark your calendars: Wednesday, October 19, 2011.  
-	<a href="http://saxonica.com/contact/contact.xml" target="kay">Dr. Michael Kay</a>,
-	the father of <a href="http://saxonica.com" target="kay">Saxon</a>
-	and influential member of various and sundry XML-related W3C standards committees will be
-	our special guest at the October MUGL meeting.
+	Mark your calendars: Thursday, November 19, 2011.
+	</p>
+	<p class="homepagetext">
+	<a href="http://webcomposite.com/" target="kay">James Fuller</a>,
+	Lead Engineer at MarkLogic and an XQuery innovator will be our special guest.
+	Jim will be speaking on being more productive with XQuery: 
+	<i>XQuery - The GSD Language</i>.  If you've never heard of the MarkLogic
+	term "GSD", come along to the meeting to find out what it means.
 	</p>
 
 	<p class="homepagetext">

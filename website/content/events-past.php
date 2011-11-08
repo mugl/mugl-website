@@ -2,6 +2,23 @@
 
 	<h1>Past MUGL Events</h1>
 	
+	<h2>October 19: The Saxon Invasion</h2>
+	<div class="floatpicture"><img src="images/225px-Michael_kay_nov_2008.jpg" width="110" height="128"/></div>
+
+	<p class="homepagetext">
+	On Wednesday, October 19, 2011 we had the pleasure of hosting  
+	<a href="http://saxonica.com/contact/contact.xml" target="kay">Dr. Michael Kay</a>,
+	the father of <a href="http://saxonica.com" target="kay">Saxon</a>
+	and influential member of various and sundry XML-related W3C standards committees.
+	</p>
+
+	<p class="homepagetext">
+	Dr. Kay gave us a very interesting introduction to his Saxon-in-the-browser
+	XSLT 2.0 processor that's implemented with JavaScript and GWT.  If you missed
+	this talk you've missed one of the great innovators of the XML world. 
+	</p>
+	
+	
 	<h2>September 15: Norm Walsh, REST Easy With MarkLogic</h2>
 	<div class="floatpicture"><img src="images/norm.gif"/></div>
 
