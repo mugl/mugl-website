@@ -2,14 +2,9 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>November 24, 2011, 18:30</h3>
-		<p class="sidebartext">
-		The next
-                <a href="http://www.meetup.com/muglondon/" target="foo">meeting of the MUGL</a>
-                is scheduled for Ocober 19, 2011.
-                </p>
-                <p class="sidebartext">
-                The featured speaker will be James Fuller of MarkLogic.
+            <h3>February 2, 2012, 18:30</h3>
+        <p class="sidebartext">
+        The featured speaker will be Phillip Fennel of MarkLogic.
 		</p>
 		<p class="sidebartext">
 		Stay up to date,
