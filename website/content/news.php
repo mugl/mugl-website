@@ -6,7 +6,7 @@
 	Mark your calendars: Thursday, Februray 2, 2012.
 	</p>
 	<p class="homepagetext">
-	<a href="http://www.linkedin.com/in/philipfennell" target="kay">Philip Fennel</a>,
+	<a href="http://www.linkedin.com/in/philipfennell" target="kay">Philip Fennell</a>,
 	Consultant at MarkLogic, will be our featured guest.
     Philip will be presenting on <i>XPath With MarkLogic</i>.
 	</p>
