@@ -1,14 +1,18 @@
 <div class="homepage">
-	<h1>Coming in Februrary: The XProc-alypse</h1>
-	<div class="floatpicture"><img src="images/philip_fennell.jpg" width="110" height="110"/></div>
+	<h1>Coming in March: An Officer and a Gentleman</h1>
+	<div class="floatpicture"><img src="images/chris-biow.jpg" width="110" height="110" alt="Chris Biow" title="Chris Biow"/></div>
 
 	<p class="homepagetext">
-	Mark your calendars: Thursday, Februray 2, 2012.
+	Mark your calendars: Thursday, March 8, 2012.
 	</p>
 	<p class="homepagetext">
-	<a href="http://www.linkedin.com/in/philipfennell" target="kay">Philip Fennell</a>,
-	Consultant at MarkLogic, will be our featured guest.
-    Philip will be presenting on <i>XPath With MarkLogic</i>.
+	<a href="http://www.linkedin.com/in/chrisbiow" target="speaker">Chris Biow</a>,
+
+    MarkLogic VP and Federal CTO, will be our special guest.
+    Chris will be in London in March and has agreed to
+    stop by the MUGL to speak to us on the topic of <i>Enterprise Data Layer</i>.
+    Chris has been with MarkLogic for six years, and played a key role in the
+    early success of the company.
 	</p>
 
 	<p class="homepagetext">

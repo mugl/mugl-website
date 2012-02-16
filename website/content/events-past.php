@@ -2,6 +2,16 @@
 
 	<h1>Past MUGL Events</h1>
 
+    <h2>February 2, 2012: The XProc-alypse</h2>
+    <div class="floatpicture"><img src="images/philip_fennell.jpg" width="110" height="110"/></div>
+
+    <p class="homepagetext">
+        On Thursday, February 2, 2012 we had
+        <a href="http://www.linkedin.com/in/philipfennell" target="kay">Philip Fennell</a>,
+        Consultant at MarkLogic, as our featured guest.
+        Philip gave an interesting talk on <i>XPath With MarkLogic</i>.
+    </p>
+
     <h2>November 19, 2011: The Prague Autumn</h2>
     <div class="floatpicture"><img src="images/JimFuller.png" width="110" height="110"/></div>
 

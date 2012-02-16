@@ -2,9 +2,9 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>February 2, 2012, 18:30</h3>
+            <h3>March 8, 2012, 18:30</h3>
         <p class="sidebartext">
-        The featured speaker will be Phillip Fennel of MarkLogic.
+        The featured speaker will be Chris Biow of MarkLogic.
 		</p>
 		<p class="sidebartext">
 		Stay up to date,
