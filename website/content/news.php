@@ -15,6 +15,22 @@
     early success of the company.
 	</p>
 
+    <p class="homepagetext">
+        Also at this meeting, we will have a short demo by
+        <a href="http://www.adamretter.org.uk/" title="Adam Retter" target="speaker">Adam Retter</a>
+        of a propject he's been working on.  Adam is a long-time XQuery
+        fanatic and has been a key contributor to the eXist XML database
+        and W3C standards.
+    </p>
+
+    <p class="homepagetext">
+        There may also be a report on this year's
+        <a href="http://www.xmlprague.cz/2012/index.html" title="XML Prague" target="speaker">XML Prague</a>
+        conference, held Feb 10-12.  Several MUGL members
+        were there (three were speakers), and two others who spoke
+        there have also been MUGL speakers.
+    </p>
+
 	<p class="homepagetext">
 	To signup for this meeting please
 	visit our MeetUp page by following the link in the sidebar at right.
