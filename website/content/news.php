@@ -1,34 +1,43 @@
 <div class="homepage">
-	<h1>Coming in March: An Officer and a Gentleman</h1>
-	<div class="floatpicture"><img src="images/chris-biow.jpg" width="110" height="110" alt="Chris Biow" title="Chris Biow"/></div>
+	<h1>Coming in March: Czech Please</h1>
+	<div class="floatpicture"><img src="images/CharlesFoster.png" width="115" height="122" alt="Charles Foster" title="Charles Foster"/></div>
+	<div class="floatpicture"><img src="images/adamretter.jpg" width="91" height="124" alt="Adam Retter" title="Adam Retter"/></div>
 
 	<p class="homepagetext">
 	Mark your calendars: Thursday, March 8, 2012.
 	</p>
+
 	<p class="homepagetext">
-	<a href="http://www.linkedin.com/in/chrisbiow" target="speaker">Chris Biow</a>,
+	<a href="http://www.adamretter.org.uk/" target="speaker">Adam Retter</a>,
+    will be speaking about <i>RESTful XQuery</i>, using XQuery 3.0 annotations
+    in your XQuery in a manner similar to the way JAX-RS annotations are used in Java.
+    Adam presented this topic at
+    <a href="http://www.xmlprague.cz">XML Prague</a> in February. Adam is a long-time XQuery
+    fanatic and has been a key contributor to the eXist XML database
+    and W3C standards.
+    </p>
 
-    MarkLogic VP and Federal CTO, will be our special guest.
-    Chris will be in London in March and has agreed to
-    stop by the MUGL to speak to us on the topic of <i>Enterprise Data Layer</i>.
-    Chris has been with MarkLogic for six years, and played a key role in the
-    early success of the company.
-	</p>
-
-    <p class="homepagetext">
-        Also at this meeting, we will have a short demo by
-        <a href="http://www.adamretter.org.uk/" title="Adam Retter" target="speaker">Adam Retter</a>
-        of a propject he's been working on.  Adam is a long-time XQuery
-        fanatic and has been a key contributor to the eXist XML database
-        and W3C standards.
+	<p class="homepagetext">
+	<a href="http://www.cfoster.net/" target="speaker">Charles Foster</a>,
+    will be speaking about the subject of his XML Prague talk
+    <i>Building Bridges from Java to XQuery</i> which is about his modifications
+    to XQJ for invoking XQuery functions from Java.  Charles is a MUGL regular
+    and is a long-time MarkLogic user.
     </p>
 
     <p class="homepagetext">
-        There may also be a report on this year's
-        <a href="http://www.xmlprague.cz/2012/index.html" title="XML Prague" target="speaker">XML Prague</a>
+        The papers that Adam and Charles submitted to XML Prague, along with
+        all the others, can be found online here:
+        <a href="http://www.xmlprague.cz/2012/files/xmlprague-2012-proceedings.pdf" target="pdf">xmlprague-2012-proceedings.pdf</a>
+    </p>
+
+    <p class="homepagetext">
+        There may also be an informal report on this year's
+        <a href="http://www.xmlprague.cz/2012/index.html" title="XML Prague" target="speaker">XML Prague 2012</a>
         conference, held Feb 10-12.  Several MUGL members
         were there (three were speakers), and two others who spoke
-        there have also been MUGL speakers.
+        there have also been MUGL speakers.  Yet another, who will be
+        our MUGL speaker in May, gave the keynote.
     </p>
 
 	<p class="homepagetext">

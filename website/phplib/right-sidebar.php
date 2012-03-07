@@ -4,7 +4,7 @@
 		<div class="sidebarbody">
             <h3>March 8, 2012, 18:30</h3>
         <p class="sidebartext">
-        The featured speaker will be Chris Biow of MarkLogic.
+        The featured speakers will be Adam Retter and Charles Foster.
 		</p>
 		<p class="sidebartext">
 		Stay up to date,
