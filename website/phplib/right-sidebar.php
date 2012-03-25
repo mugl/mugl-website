@@ -2,9 +2,9 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>March 8, 2012, 18:30</h3>
+            <h3>May 22, 2012, 18:30</h3>
         <p class="sidebartext">
-        The featured speakers will be Adam Retter and Charles Foster.
+        The featured speaker will be Jeni Tennison.
 		</p>
 		<p class="sidebartext">
 		Stay up to date,
@@ -50,11 +50,17 @@
 		<div class="sidebartitle">A Word From Our Sponsors</div>
 		<div class="sidebarbody">
 			<p class="sidebartext">
-				<a href="http://marklogic.com" target="foo">MarkLogic</a>
-                has been extremely helpful in getting the MUGL started.
+				<a href="http://marklogic.com" target="sponsor">MarkLogic</a>
+                helped get the MUGL started and contributes to food an drink costs.
 			</p>
             <p class="sidebartext">
-				<a href="http://mercatorit.com" target="foo">Mercator IT Solutions</a> is a proud sponsor of the MUGL.
+				<a href="http://mercatorit.com" target="sponsor">Mercator IT Solutions</a>
+                is a proud sponsor of the MUGL and also covers food and drink.
+			</p>
+            <p class="sidebartext">
+				<a href="http://overstory.co.uk" target="sponsor">OverStory</a>
+                is a consultancy that specializes in MarkLogic and also
+                sponsors the MUGL.
 			</p>
 		</div>
 	</div>

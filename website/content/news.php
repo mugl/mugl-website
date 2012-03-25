@@ -1,44 +1,44 @@
 <div class="homepage">
-	<h1>Coming in March: Czech Please</h1>
-	<div class="floatpicture"><img src="images/CharlesFoster.png" width="115" height="122" alt="Charles Foster" title="Charles Foster"/></div>
-	<div class="floatpicture"><img src="images/adamretter.jpg" width="91" height="124" alt="Adam Retter" title="Adam Retter"/></div>
+	<h1>Coming in May: Good Lord, Tennison</h1>
+	<div class="floatpicture"><img src="images/jeni_tennison.jpg" width="112" height="113" alt="Jeni Tennison" title="Jeni Tennison"/></div>
 
 	<p class="homepagetext">
-	Mark your calendars: Thursday, March 8, 2012.
+	Mark your calendars: Tuesday, May 22, 2012.
 	</p>
 
 	<p class="homepagetext">
-	<a href="http://www.adamretter.org.uk/" target="speaker">Adam Retter</a>,
-    will be speaking about <i>RESTful XQuery</i>, using XQuery 3.0 annotations
-    in your XQuery in a manner similar to the way JAX-RS annotations are used in Java.
-    Adam presented this topic at
-    <a href="http://www.xmlprague.cz">XML Prague</a> in February. Adam is a long-time XQuery
-    fanatic and has been a key contributor to the eXist XML database
-    and W3C standards.
+    In May we are very honored to have
+	<a href="http://www.jenitennison.com/" target="speaker">Dr. Jeni Tennison</a>
+    as our featured guest.  While in Prague I was able to convince Dr. Tennison
+    (who gave the keynote at <a href="http://www.xmlprague.cz">XML Prague 2012</a>)
+    to speak to the MUGL in May.  Jeni doesn't do many events like this so
+    we're doubly lucky that she's agreed visit us.
     </p>
 
 	<p class="homepagetext">
-	<a href="http://www.cfoster.net/" target="speaker">Charles Foster</a>,
-    will be speaking about the subject of his XML Prague talk
-    <i>Building Bridges from Java to XQuery</i> which is about his modifications
-    to XQJ for invoking XQuery functions from Java.  Charles is a MUGL regular
-    and is a long-time MarkLogic user.
+    Dr. Tennison's interests are far ranging and tend toward the academic,
+    but she is perhaps best known for writing three XSLT books:
+        <a href="http://www.amazon.com/exec/obidos/ASIN/1590593243" title="Beginning XSLT 2.0" alt="Beginning XSLT 2.0" target="book"><i>Beginning XSLT 2.0</i></a>,
+        <a href="http://www.amazon.com/exec/obidos/ASIN/1861005946" title="Beginning XSLT" alt="Beginning XSLT" target="book"><i>Beginning XSLT</i></a> and
+        <a href="http://www.amazon.com/exec/obidos/ASIN/0764547763" title="XSLT and XPath On The Edge" alt="XSLT and XPath On The Edge" target="book"><i>XSLT and XPath On The Edge</i></a>.
     </p>
 
     <p class="homepagetext">
-        The papers that Adam and Charles submitted to XML Prague, along with
-        all the others, can be found online here:
-        <a href="http://www.xmlprague.cz/2012/files/xmlprague-2012-proceedings.pdf" target="pdf">xmlprague-2012-proceedings.pdf</a>
+        Topic of her talk: "I can talk about
+        <a href="http://legislation.gov.uk/" target="misc">legislation.gov.uk</a> and how we're using
+        MarkLogic within it, and *not* using ML for some of the new features that we're supporting."
     </p>
 
-    <p class="homepagetext">
-        There may also be an informal report on this year's
-        <a href="http://www.xmlprague.cz/2012/index.html" title="XML Prague" target="speaker">XML Prague 2012</a>
-        conference, held Feb 10-12.  Several MUGL members
-        were there (three were speakers), and two others who spoke
-        there have also been MUGL speakers.  Yet another, who will be
-        our MUGL speaker in May, gave the keynote.
+	<p class="homepagetext">
+    This will be a great meeting, you won't want to miss it.  We also
+    have a new venue, which should be a an improvement over
+    the classrooms and conference rooms we've had so far.  This one
+    will be in the upstairs function room at the
+    <a href="http://www.theodore-bullfrog.co.uk/" target="pub" title="Theodore BullFrog" alt="Theodore BullFrog">Theodore BullFrog Pub</a>
+    a few steps from Charing Cross.  Visit the MeetUp link on the right
+    sidebar for directions and to signup.  Free food and a private, open bar.
     </p>
+
 
 	<p class="homepagetext">
 	To signup for this meeting please

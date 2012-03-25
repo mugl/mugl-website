@@ -2,6 +2,45 @@
 
 	<h1>Past MUGL Events</h1>
 
+    <h2>March 8, 2012: Czech Please</h2>
+    <div class="floatpicture"><img src="images/CharlesFoster.png" width="115" height="122" alt="Charles Foster" title="Charles Foster"/></div>
+    <div class="floatpicture"><img src="images/adamretter.jpg" width="91" height="124" alt="Adam Retter" title="Adam Retter"/></div>
+
+    <p class="homepagetext">
+        In March we had
+        <a href="http://www.adamretter.org.uk/" target="speaker">Adam Retter</a>,
+        speaking about <i>RESTful XQuery</i>, using XQuery 3.0 annotations
+        in  XQuery in a manner similar to the way JAX-RS annotations are used in Java.
+        Adam also presented this topic at
+        <a href="http://www.xmlprague.cz">XML Prague</a> in February. Adam is a long-time XQuery
+        fanatic and has been a key contributor to the eXist XML database
+        and W3C standards.
+    </p>
+
+    <p class="homepagetext">
+        We also had <a href="http://www.cfoster.net/" target="speaker">Charles Foster</a>,
+        speaking about the subject of his XML Prague talk
+        <i>Building Bridges from Java to XQuery</i> which is about his modifications
+        to XQJ for invoking XQuery functions from Java.  Charles is a MUGL regular
+        and is a long-time MarkLogic user.
+    </p>
+
+    <p class="homepagetext">
+        The papers that Adam and Charles submitted to XML Prague, along with
+        all the others, can be found online here:
+        <a href="http://www.xmlprague.cz/2012/files/xmlprague-2012-proceedings.pdf" target="pdf">xmlprague-2012-proceedings.pdf</a>
+    </p>
+
+    <p class="homepagetext">
+        There was also  an informal report on the
+        <a href="http://www.xmlprague.cz/2012/index.html" title="XML Prague" target="speaker">XML Prague 2012</a>
+        conference, held Feb 10-12.  Several MUGL members
+        were there (three were speakers), and two others who spoke
+        there have also been MUGL speakers.  Yet another, who will be
+        our MUGL speaker in May, gave the keynote.
+    </p>
+
+
     <h2>February 2, 2012: The XProc-alypse</h2>
     <div class="floatpicture"><img src="images/philip_fennell.jpg" width="110" height="110"/></div>
 
