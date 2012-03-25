@@ -31,7 +31,7 @@
 
 	<p class="homepagetext">
     This will be a great meeting, you won't want to miss it.  We also
-    have a new venue, which should be a an improvement over
+    have a new venue, which should be an improvement over
     the classrooms and conference rooms we've had so far.  This one
     will be in the upstairs function room at the
     <a href="http://www.theodore-bullfrog.co.uk/" target="pub" title="Theodore BullFrog" alt="Theodore BullFrog">Theodore BullFrog Pub</a>
