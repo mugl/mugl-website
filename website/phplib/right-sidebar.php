@@ -2,14 +2,15 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>May 22, 2012, 18:30</h3>
+            <h3>July 10, 2012, 18:30</h3>
         <p class="sidebartext">
-        The featured speaker will be Jeni Tennison.
+        The featured speaker will be <span class="sidebarspeaker">Jem Rayfield</span>.
 		</p>
-		<p class="sidebartext">
-		Stay up to date,
-		<a href="http://www.meetup.com/muglondon/calendar" target="cal">subscribe to the MUGL calendar</a>.
-		</p>
+            <p class="sidebartext">
+                Visit our
+                <a href="http://www.meetup.com/muglondon/" target="foo">MUGL MeetUp page</a>
+                to signup and find directions to the event.
+            </p>
 		</div>
 	</div>
 </div>
@@ -21,13 +22,12 @@
 			<p class="sidebartext">
 				MUGL uses MeetUp to manage our meeting
                 scheduling and discussions.
-			<p class="sidebartext">
 			</p>
-                Visit the
-				<a href="http://www.meetup.com/muglondon/" target="foo">MUGL MeetUp</a>
-				page to signup or learn more.
-			</p>
-		</div>
+            <p class="sidebartext">
+                Stay up to date, subscribe to the
+                <a href="http://www.meetup.com/muglondon/calendar" target="cal">MUGL MeetUp calendar</a>.
+            </p>
+        </div>
 	</div>
 </div>
 

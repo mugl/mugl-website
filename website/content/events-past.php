@@ -2,6 +2,38 @@
 
 	<h1>Past MUGL Events</h1>
 
+    <h2>May 22, 2012: Good Lord, Tennison</h2>
+    <div class="floatpicture"><img src="images/jeni_tennison.jpg" width="112" height="113" alt="Jeni Tennison" title="Jeni Tennison"/></div>
+
+    <p class="homepagetext">
+        On May 22 we were honored to have
+        <a href="http://www.jenitennison.com/" target="speaker">Dr. Jeni Tennison</a>
+        as our featured guest.  While in Prague I was able to convince Dr. Tennison
+        (who gave the keynote at <a href="http://www.xmlprague.cz">XML Prague 2012</a>)
+        to speak at the MUGL.  Jeni doesn't do many events like this so
+        we're doubly lucky that she agreed visit us.
+    </p>
+
+    <p class="homepagetext">
+        Dr. Tennison's interests are far ranging and tend toward the academic,
+        but she is perhaps best known for writing three XSLT books:
+        <a href="http://www.amazon.com/exec/obidos/ASIN/1590593243" title="Beginning XSLT 2.0" alt="Beginning XSLT 2.0" target="book"><i>Beginning XSLT 2.0</i></a>,
+        <a href="http://www.amazon.com/exec/obidos/ASIN/1861005946" title="Beginning XSLT" alt="Beginning XSLT" target="book"><i>Beginning XSLT</i></a> and
+        <a href="http://www.amazon.com/exec/obidos/ASIN/0764547763" title="XSLT and XPath On The Edge" alt="XSLT and XPath On The Edge" target="book"><i>XSLT and XPath On The Edge</i></a>.
+    </p>
+
+    <p class="homepagetext">
+        Topic of her talk was: "I can talk about
+        <a href="http://legislation.gov.uk/" target="misc">legislation.gov.uk</a> and how we're using
+        MarkLogic within it, and *not* using ML for some of the new features that we're supporting."
+    </p>
+    <p class="homepagetext">
+        Everyone agreed this was one of the best presentation in the MUGL's history.
+    </p>
+    <p class="homepagetext">
+        Twitter: @JeniT
+    </p>
+
     <h2>March 8, 2012: Czech Please</h2>
     <div class="floatpicture"><img src="images/CharlesFoster.png" width="115" height="122" alt="Charles Foster" title="Charles Foster"/></div>
     <div class="floatpicture"><img src="images/adamretter.jpg" width="91" height="124" alt="Adam Retter" title="Adam Retter"/></div>

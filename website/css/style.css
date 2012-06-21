@@ -60,7 +60,7 @@ form h2{
 .header {
 	border: solid black 1px;
 	margin-bottom: 10px;
-	background-color: #a3181E;
+	background-color: #73181E;
 }
 
 .headerimg {
@@ -81,7 +81,7 @@ form h2{
 
 .linksbar {
 	border: solid black 1px;
-	background-color: #a3181E;
+	background-color: #73181E;
 	margin-top: 0;
 	margin-bottom: 25pt;
 }
@@ -112,8 +112,12 @@ form h2{
 
 .sidebartitle {
 	padding: 3px;
-	background-color: #a3181E;
+	background-color: #73181E;
 	color: white;
+	font-weight: bold;
+}
+
+.sidebarspeaker {
 	font-weight: bold;
 }
 
@@ -329,30 +333,30 @@ body {
 	background-color: #ffffff;
 	margin: 5px;
 	padding: 6pt 8pt 6pt 8pt;
-	border: solid #a3181E 4px;
+	border: solid #73181E 4px;
 	font-size: 11pt;
 }
 
 h1 {
 	color: black;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	margin-top: 0.8em;
 	margin-bottom: 0.5em;
-	border-bottom: 3px solid #a3181E;
+	border-bottom: 3px solid #73181E;
 }
 h2 {
 	color: black;
-	font-size: 1.3em;
-	margin-top: 1.5em;
+	font-size: 1.0em;
+	margin-top: 1.2em;
 	margin-bottom: 0.3em;
-	border-bottom: 1px dotted #a3181E;
+	border-bottom: 1px dotted #73181E;
 }
 h3 {
 	color: black;
-	font-size: 1.1em;
+	font-size: 0.9em;
 	margin-top: 0.2em;
 	margin-bottom: 0.3em;
-    border-bottom: 1px dotted #a3181E;
+    border-bottom: 1px dotted #73181E;
 }
 
 .loading {
