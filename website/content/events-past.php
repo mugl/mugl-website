@@ -1,6 +1,63 @@
 <div class="homepage">
 
-	<h1>Past MUGL Events</h1>
+<h1>Past MUGL Events</h1>
+
+<a href="#jem"/>
+<h2>July 10: The (Cyber)Man From The BBC<sup style="color: #bbc">*</sup></h2>
+<div class="floatpicture"><img src="images/jem_rayfield.png" alt="Jem Rayfield" title="Jem Rayfield"/></div>
+
+<p class="homepagetext">
+    In July our featured speaker was
+    <a href="http://uk.linkedin.com/pub/jem-rayfield/27/b19/757" target="speaker">Jem Rayfield</a>,
+    Lead Technical Architect of Future Media and Technology
+    at the <a href="http://bbc.co.uk" target="bbc">BBC</a>.
+    Jem has been leading a major MarkLogic-based project at the
+    Beeb that will process all the information, in real time, for the upcoming
+    <a href="http://www.bbc.co.uk/sport/0/olympics/2012/" target="bbc">2012 Olympic Games in London</a>.
+    We're very lucky that Jem has agreed to take time out from what must be an
+    intense schedule to stop by and talk to us.
+</p>
+<p class="homepagetext">
+    <b>UPDATE</b>: The very successful London 2012 Olypmics came and went and
+    everything was tickety-boo and the BBC.  Congratulations to Jem and his team.
+</p>
+
+<h3>Synopsis</h3>
+<p class="homepagetext">
+    In this talk, Jem describes the latest developments in the transformational
+    technology strategy the BBC Future Media &amp; Technology department is using to
+    evolve from a relational content model and static publishing framework to a
+    fully Dynamic Semantic Publishing (DSP) architecture. This approach uses
+    XML/XQuery and linked data technology to automate the aggregation,
+    publishing and re-purposing of interrelated content objects according to an
+    ontological domain-modelled information architecture, providing a greatly
+    improved user experience and high levels of user engagement.   The BBC's
+    <a href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/default.stm" target="bbc">World Cup</a>
+    web site was the first showcase of DSP, and probably the first
+    major implementation of semantic web technologies on a commercial media
+    site. In 2012, the BBC will launch two new sites based on DSP:
+    <a href="http://www.bbc.co.uk/sport/0/olympics/2012/" target="bbc">The 2012 Olympics</a>
+    and a completely redesigned
+    <a href="http://www.bbc.co.uk/sport/0/" target="bbc">BBC Sports</a> site.
+</p>
+
+<h3>Jem's Bio</h3>
+<p class="homepagetext">
+    Lead Technical Architect in the Future Media and Technology division of the
+    British Broadcasting Corporation (BBC), specifically focusing on News, Sport
+    &amp; Knowledge products. This places him at the centre of BBC online
+    architectural strategy and implementation decisions. Prior to working at the
+    BBC, Jem was Technology Director at Razorfish, architecting solutions for
+    numerous clients including O2 and the Financial Times. In his free time, Jem
+    enjoys listening and playing (badly) a wide and eclectic range of music. He
+    also enjoys spending time at the gym.
+</p>
+<p class="homepagetext">Twitter: @jemrayfield<br/>
+    LinkedIn: <a href="http://uk.linkedin.com/pub/jem-rayfield/27/b19/757">jem-rayfield</a><br/>
+    <span style="color: #bbc"><sup>*</sup>"You will be upgraded"</span>
+</p>
+
+
 
     <h2>May 22, 2012: Good Lord, Tennison</h2>
     <div class="floatpicture"><img src="images/jeni_tennison.jpg" width="112" height="113" alt="Jeni Tennison" title="Jeni Tennison"/></div>

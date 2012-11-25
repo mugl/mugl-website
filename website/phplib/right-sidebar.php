@@ -2,9 +2,9 @@
 	<div class="sidebarinner">
 		<div class="sidebartitle">Next MUGL Meeting</div>
 		<div class="sidebarbody">
-            <h3>July 10, 2012, 18:30</h3>
+            <h3>Nov 27, 2012, 18:30</h3>
         <p class="sidebartext">
-        The featured speaker will be <span class="sidebarspeaker">Jem Rayfield</span>.
+        The featured speaker will be <span class="sidebarspeaker">Florent Georges</span>.
 		</p>
             <p class="sidebartext">
                 Visit our

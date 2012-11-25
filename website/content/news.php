@@ -1,6 +1,12 @@
 <div class="homepage">
-	<h1>Coming in July: The (Cyber)Man From The BBC<sup style="color: #bbc">*</sup></h1>
-	<div class="floatpicture"><img src="images/jem_rayfield.png" alt="Jem Rayfield" title="Jem Rayfield"/></div>
+	<h1>Coming in Nov: The EX-Man from Brussels</h1>
+
+	<div class="floatpicture">
+        <img src="images/florent-georges.jpg" width="125" height="100" alt="Florent Georges" title="Florent Georges"/>
+        <p class="homepagetext">
+            @fgeorges
+        </p>
+    </div>
 
 	<p class="homepagetext">
 	Mark your calendars: Tuesday, July 10, 2012, 6:30pm.
@@ -8,58 +14,22 @@
 
 	<p class="homepagetext">
     In July our featured speaker will be
-    <a href="http://uk.linkedin.com/pub/jem-rayfield/27/b19/757" target="speaker">Jem Rayfield</a>,
-    Lead Technical Architect of Future Media and Technology
-    at the <a href="http://bbc.co.uk" target="bbc">BBC</a>.
-    Jem has been leading a major MarkLogic-based project at the
-    Beeb that will process all the information, in real time, for the upcoming
-    <a href="http://www.bbc.co.uk/sport/0/olympics/2012/" target="bbc">2012 Olympic Games in London</a>.
-    We're very lucky that Jem has agreed to take time out from what must be an
-    intense schedule to stop by and talk to us.
+    <a href="http://fgeorges.org" target="speaker">Florent Georges</a>,
+        Consultant, XML & XQuery expert, W3C member and well-known Belgian.
+        Florent will be discussing a project he's been working on: <a href="http://www.expath.org" target="expath">EXPath</a> Console for MarkLogic.
     </p>
 
-    <h2>Synopsis</h2>
     <p class="homepagetext">
-        In this talk, Jem describes the latest developments in the transformational
-        technology strategy the BBC Future Media &amp; Technology department is using to
-        evolve from a relational content model and static publishing framework to a
-        fully Dynamic Semantic Publishing (DSP) architecture. This approach uses
-        XML/XQuery and linked data technology to automate the aggregation,
-        publishing and re-purposing of interrelated content objects according to an
-        ontological domain-modelled information architecture, providing a greatly
-        improved user experience and high levels of user engagement.   The BBC's
-        <a href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/default.stm" target="bbc">World Cup</a>
-        web site was the first showcase of DSP, and probably the first
-        major implementation of semantic web technologies on a commercial media
-        site. In 2012, the BBC will launch two new sites based on DSP:
-        <a href="http://www.bbc.co.uk/sport/0/olympics/2012/" target="bbc">The 2012 Olympics</a>
-        and a completely redesigned
-        <a href="http://www.bbc.co.uk/sport/0/" target="bbc">BBC Sports</a> site.
+        We will also have an update from our most recent speaker, <a href="events.php#jem">Jem Rayfield</a>,
+        on how things went during the London Olympics for the MarkLogic-based system his team built at the BBC.
     </p>
 
-    <h2>Jem's Bio</h2>
-    <p class="homepagetext">
-        Lead Technical Architect in the Future Media and Technology division of the
-        British Broadcasting Corporation (BBC), specifically focusing on News, Sport
-        &amp; Knowledge products. This places him at the centre of BBC online
-        architectural strategy and implementation decisions. Prior to working at the
-        BBC, Jem was Technology Director at Razorfish, architecting solutions for
-        numerous clients including O2 and the Financial Times. In his free time, Jem
-        enjoys listening and playing (badly) a wide and eclectic range of music. He
-        also enjoys spending time at the gym.
-    </p>
-    <p class="homepagetext">Twitter: @jemrayfield<br/>
-    LinkedIn: <a href="http://uk.linkedin.com/pub/jem-rayfield/27/b19/757">jem-rayfield</a><br/>
-    <span style="color: #bbc"><sup>*</sup>"You will be upgraded"</span>
-    </p>
 
     <h2>Signup Now</h2>
     <p class="homepagetext">
-    This will be a great meeting, you won't want to miss it.  We're at
-    the new venue again, which worked out very well last time.  It's
-    in the upstairs function room at the
+    This will be a fun meeting, you won't want to miss it.  We're at the
     <a href="http://www.theodore-bullfrog.co.uk/" target="pub" title="Theodore BullFrog" alt="Theodore BullFrog">Theodore BullFrog Pub</a>
-    a few steps from Charing Cross.  Visit the MeetUp link on the right
+    again, a few steps from Charing Cross Station.  Visit the MeetUp link on the right
     sidebar for directions and to signup.  Free food and a private, open bar.
     </p>
 
