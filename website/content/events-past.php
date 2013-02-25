@@ -2,6 +2,23 @@
 
 <h1>Past MUGL Events</h1>
 
+<h2>Nov 27: The EX-Man from Brussels</h2>
+
+<div class="floatpicture">
+<img src="images/florent-georges.jpg" width="125" height="100" alt="Florent Georges" title="Florent Georges"/>
+<p class="homepagetext">
+    @fgeorges
+</p>
+</div>
+
+<p class="homepagetext">
+In July our featured speaker was
+<a href="http://fgeorges.org" target="speaker">Florent Georges</a>,
+Consultant, XML & XQuery expert, W3C member and well-known Belgian.
+Florent discussed a project he's been working on: <a href="http://www.expath.org" target="expath">EXPath</a> Console for MarkLogic.
+</p>
+
+
 <a href="#jem"/>
 <h2>July 10: The (Cyber)Man From The BBC<sup style="color: #bbc">*</sup></h2>
 <div class="floatpicture"><img src="images/jem_rayfield.png" alt="Jem Rayfield" title="Jem Rayfield"/></div>
@@ -19,7 +36,7 @@
 </p>
 <p class="homepagetext">
     <b>UPDATE</b>: The very successful London 2012 Olypmics came and went and
-    everything was tickety-boo and the BBC.  Congratulations to Jem and his team.
+    everything was tickety-boo at the BBC.  Congratulations to Jem and his team.
 </p>
 
 <h3>Synopsis</h3>

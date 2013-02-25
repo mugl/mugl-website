@@ -1,17 +1,15 @@
 <div class="sidebar">
 	<div class="sidebarinner">
-		<div class="sidebartitle">Next MUGL Meeting</div>
-		<div class="sidebarbody">
-            <h3>Nov 27, 2012, 18:30</h3>
-        <p class="sidebartext">
-        The featured speaker will be <span class="sidebarspeaker">Florent Georges</span>.
-		</p>
-            <p class="sidebartext">
-                Visit our
-                <a href="http://www.meetup.com/muglondon/" target="foo">MUGL MeetUp page</a>
-                to signup and find directions to the event.
-            </p>
-		</div>
+		<div class="sidebartitle">Follow MUGL on Twitter</div>
+		
+<!-- BEGIN: Twitter Website Box (http://twitterforweb.com) -->
+<div class="sidebarbody" style="width:200px;font-size:8px;text-align:right;">
+   <script type="text/javascript">//<![CDATA[
+document.write(unescape("%3Cscript src='http://twitterforweb.com/twitterbox.js?username=mugl&settings=1,0,2,210,420,ffffff,0,73181E,101010' type='text/javascript'%3E%3C/script%3E"));
+//]]></script>
+</div>
+<!-- END: Twitter Website Box (http://twitterforweb.com) -->		
+		
 	</div>
 </div>
 
@@ -20,7 +18,7 @@
 		<div class="sidebartitle">MUGL MeetUp</div>
 		<div class="sidebarbody">
 			<p class="sidebartext">
-				MUGL uses MeetUp to manage our meeting
+				MUGL uses <a href="http://www.meetup.com/muglondon/" target="foo">MeetUp</a> to manage our meeting
                 scheduling and discussions.
 			</p>
             <p class="sidebartext">
